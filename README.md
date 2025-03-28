@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanjay-krishnan005
+- 👋 Hi, I’m Sanjay Krishnan S
 - 👀 I’m interested in ... machine learning engineer 
 - 🌱 I’m currently learning ... machine learning 
 - 💞️ I’m looking to collaborate on ...
