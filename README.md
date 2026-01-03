@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjay Krishnan S
-- 👀 I’m interested in ... machine learning engineer 
-- 🌱 I’m currently learning ... machine learning 
+- 👀 I’m interested in ... Artificial intelligence 
+- 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email : sanjaykrishnan437@gmail.com
 - 😄 Pronouns: ... he/him
