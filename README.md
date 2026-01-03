@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sanjay Krishnan S
 - 👀 I’m interested in ... Artificial intelligence 
 - 🌱 I’m currently learning ... Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email : sanjaykrishnan437@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Machine Learning models are trained on vast amounts of data, but can still struggle with tasks that humans find simple, like recognizing sarcasm!
