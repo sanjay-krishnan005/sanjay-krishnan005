@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **Data science, ML, Data analysis and AI**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ten-lime-6fc2wpa8uy.vercel.app/](https://portfolio-ten-lime-6fc2wpa8uy.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](sanjaykrishnan.vercel.app)
 
 - 📫 How to reach me **sanjaykrishnan437@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
-- Linkedin profile: https://www.linkedin.com/in/sanjay-krishnan-7a2210281
+- Linkedin profile: https://www.linkedin.com/in/sanjaykrishnanai
 
 <h3 align="center">Languages and Tools:</h3>
 
