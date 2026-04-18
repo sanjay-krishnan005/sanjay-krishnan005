@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sanjaykrishnan437@gmail.com**
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 </p>
 - Linkedin profile: https://www.linkedin.com/in/sanjay-krishnan-7a2210281
 
