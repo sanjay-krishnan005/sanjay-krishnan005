@@ -4,11 +4,12 @@
 
 <h1 align="center">About Me</h1>
 
-<h3 align="center">-  Building AI-powered applications and intelligent automation systems</h3>
-<h3 align="center">-  Interested in IoT, smart systems, real-time monitoring platforms, and connected devices</h3>
-<h3 align="center">-  Working with Machine Learning, Deep Learning, Data Analytics, and backend development</h3>
-<h3 align="center">-  Passionate about transforming ideas into impactful technology products</h3>
-<h3 align="center">-  Exploring startup innovation, AI SaaS, and scalable product development</h3>
+<p align="center">-  Building AI-powered applications and intelligent automation systems</p>
+<p align="center">-  Interested in IoT, smart systems, real-time monitoring platforms, and connected devices</p>
+<p align="center">-  Working with Machine Learning, Deep Learning, Data Analytics, and backend development</p>
+<p align="center">-  Passionate about transforming ideas into impactful technology products</p>
+<p align="center">-  Exploring startup innovation, AI SaaS, and scalable product development</p>
+
   
 <p align="center">
 - 👨‍💻 All of my projects and Details are available at Portfolio - (https://portfolio-ten-lime-6fc2wpa8uy.vercel.app)
