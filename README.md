@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Krishnan S</h1>
 <h3 align="center">AI & Data Science Engineer passionate about building intelligent systems that solve real-world problems through AI, IoT, automation, and scalable software.</h3>
 
-## About Me
+<h2 align="center">About Me</h2>
 -  Building AI-powered applications and intelligent automation systems
 -  Interested in IoT, smart systems, real-time monitoring platforms, and connected devices
 -  Working with Machine Learning, Deep Learning, Data Analytics, and backend development
