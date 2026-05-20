@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sanjay Krishnan S</h1>
-<h3 align="center">AI & Data Science Engineer passionate about building intelligent systems that solve real-world problems through AI, IoT, automation, and scalable software.</h3>
+<p align="center">AI & Data Science Engineer passionate about building intelligent systems that solve real-world problems through AI, IoT, automation, and scalable software.</p>
 
 <h1 align="center">About Me</h1>
 
