@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Sanjay Krishnan S — AI Engineer</title>
+  <desc id="desc">Dark editorial banner with black background, white typography, and lime accents.</desc>
+  <rect width="1200" height="330" fill="#111210"/>
+  <g fill="none" stroke="#41433D" stroke-width="1">
+    <path d="M38 34H1162"/><path d="M38 296H1162"/>
+    <path d="M38 34V296"/><path d="M1162 34V296"/>
+    <path d="M820 34V296"/>
+  </g>
+  <g fill="#B9F56A" font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="66" font-size="12" letter-spacing="3">SANJAY KRISHNAN S</text>
+    <text x="1136" y="66" font-size="11" text-anchor="end" letter-spacing="2">ENGINEERING / 2026</text>
+  </g>
+  <g fill="#F5F5EF" font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="145" font-size="47" font-weight="700" letter-spacing="-1.5">Building intelligence.</text>
+    <text x="64" y="201" font-size="47" font-weight="700" letter-spacing="-1.5">Engineering real-world</text>
+    <text x="64" y="253" font-size="47" font-weight="700" letter-spacing="-1.5">impact<tspan fill="#B9F56A">.</tspan></text>
+  </g>
+  <text x="66" y="278" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.6" fill="#B8BAB3">AI ENGINEERING / COMPUTER VISION / GENERATIVE AI</text>
+  <g fill="none" stroke="#B9F56A" stroke-width="1.5">
+    <circle cx="1002" cy="178" r="58"/><circle cx="1002" cy="178" r="39"/>
+    <path d="M922 178H1082"/><path d="M1002 98V258"/>
+    <path d="M944 120L1060 236"/><path d="M944 236L1060 120"/>
+  </g>
+  <circle cx="1002" cy="178" r="4" fill="#B9F56A"/>
+  <text x="1136" y="276" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2" text-anchor="end" fill="#B9F56A">PROFILE / 001</text>
+</svg>
