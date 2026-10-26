@@ -92,16 +92,15 @@ Python AI Data Analysis
 --> GitHub Dashboard
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjay-krishnan005&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub stats"/>
+<a href="https://github.com/sanjay-krishnan005">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjay-krishnan005&show_icons=true&hide_border=true&rank_icon=github&bg_color=161B22&title_color=58A6FF&icon_color=BC8CFF&text_color=E6EDF3" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/sanjay-krishnan005">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-krishnan005&layout=compact&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=E6EDF3" alt="Most used languages"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-krishnan005&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=E5E7EB" alt="Top languages"/>
+<br/>
 
+<img src="https://streak-stats.demolab.com?user=sanjay-krishnan005&hide_border=true&background=161B22&ring=BC8CFF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=E6EDF3&dates=8B949E" height="165" alt="GitHub contribution streak"/>
 
-<img src="https://streak-stats.demolab.com?user=sanjay-krishnan005&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub streak"/>
-
-</div>
-
-<div align="center">
-
-Curious mind. Practical AI. Continuous learning.
 </div>
