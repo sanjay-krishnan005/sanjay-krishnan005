@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # SANJAY KRISHNAN S.
@@ -58,4 +57,3 @@
 **BUILD THOUGHTFULLY. MEASURE HONESTLY. KEEP LEARNING.**
 
 </div>
-```
