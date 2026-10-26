@@ -15,7 +15,7 @@
 <tr>
 <td width="58%" valign="top">
 
-👋 About Me
+--> About Me
 AI Engineer interested in turning AI research into useful products — from computer vision and machine learning to LLM-powered automation.
 - 🔭 Building practical AI applications
 - 🧠 Exploring Computer Vision, RAG & AI Agents
@@ -23,7 +23,7 @@ AI Engineer interested in turning AI research into useful products — from comp
 </td>
 <td width="42%" valign="top">
 
-🧩 At a Glance
+--> At a Glance
 Focus	
 Core	Python · SQL
 AI/ML	YOLO · PyTorch
@@ -35,14 +35,12 @@ Building	APIs · AI apps
 </tr>
 </table>
 
-🛠️ Tech Stack
+--> Tech Stack
 <div align="center">
 
-Languages & Development
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi&theme=dark" alt="Python, Java, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI"/>
 
 
-AI, Data & Tools
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mysql,postgres,supabase,docker,git,github,aws&theme=dark" alt="PyTorch, TensorFlow, OpenCV, MySQL, PostgreSQL, Supabase, Docker, Git, GitHub, AWS"/>
 
 </div>
@@ -55,19 +53,19 @@ AI, Data & Tools
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
-🚀 Selected Projects
+--> Selected Projects
 <table>
 <tr>
 <td width="50%" valign="top">
 
-♻️ Smart Waste AI
+--> Smart Waste AI
 Computer vision pipeline for classifying Plastic, Paper, Metal and General Waste.
 
 YOLO Python OpenCV
 </td>
 <td width="50%" valign="top">
 
-🤖 Grant Automation
+--> Grant Automation
 LLM-powered workflow to help automate grant discovery and application tasks.
 
 LLMs LangChain Playwright
@@ -76,14 +74,14 @@ LLMs LangChain Playwright
 <tr>
 <td width="50%" valign="top">
 
-🏗️ AI Construction Inspection
+--> AI Construction Inspection
 AI-assisted inspection workflow designed to support construction monitoring.
 
 Computer Vision AI
 </td>
 <td width="50%" valign="top">
 
-📊 Personal AI Tracker
+--> Personal AI Tracker
 Personal tracking and recommendation app covering 7+ lifestyle metrics.
 
 Python AI Data Analysis
@@ -91,15 +89,15 @@ Python AI Data Analysis
 </tr>
 </table>
 
-📊 GitHub Dashboard
+--> GitHub Dashboard
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjay-krishnan005&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=E5E7EB" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-krishnan005&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=E5E7EB" alt="Top languages"/>
 
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=sanjay-krishnan005&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub streak"/>
 
 </div>
 
