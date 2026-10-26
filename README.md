@@ -12,7 +12,7 @@
 
   
 <p align="center">
-👉 👨‍💻 All of my projects and Details are available at Portfolio - (https://portfolio-ten-lime-6fc2wpa8uy.vercel.app)
+👉 👨‍💻 All of my projects and Details are available at Portfolio - (https://sanjaykrishnan.vercel.app)
 <p align="center">
 👉 📫 How to reach me **sanjaykrishnan437@gmail.com**
 
